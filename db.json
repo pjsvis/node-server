@@ -11,5 +11,15 @@
     {
         "id": 2,
         "name": "Smith"
+    }],
+    "things": [{
+        "id": 0,
+        "this": "something",
+        "that": "something else"
+    },
+    {
+        "id": 1,
+        "this": "another something",
+        "that": "another something else"
     }]
 }
